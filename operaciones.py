@@ -1,6 +1,9 @@
 def suma (a,b):
-    '''sumita'''
+    '''suma 2 valores'''
     resultado = a+b
     return resultado
 
-
+def resta (a,b):
+    '''resta 2 valores '''
+    resultado = a-b
+    return resultado
