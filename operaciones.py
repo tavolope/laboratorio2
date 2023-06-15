@@ -41,7 +41,9 @@ def porentaje (a,b):
 
 def quetzal_a_dolar (a):
     '''convierte a dolares'''
-    return a * 7.84
+    return a / 7.84
+
+
 
 def run ():
     pass
