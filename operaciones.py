@@ -43,7 +43,9 @@ def quetzal_a_dolar (a):
     '''convierte a dolares'''
     return a / 7.84
 
-
+def dolar_a_quetzal(a):
+    '''convierte de dolar a quetzal'''
+    return a * 7.84
 
 def run ():
     pass
