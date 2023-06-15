@@ -7,3 +7,6 @@ def resta (a,b):
     '''resta 2 valores '''
     return  a-b
     
+def division (a,b):
+    '''divide 2 valores '''
+    return  a/b
