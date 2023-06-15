@@ -5,5 +5,5 @@ def suma (a,b):
 
 def resta (a,b):
     '''resta 2 valores '''
-    resultado = a-b
-    return resultado
+    return  a-b
+    
