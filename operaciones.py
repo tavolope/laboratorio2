@@ -35,13 +35,16 @@ def suma5 ():
 
 suma5()
 
-def exponenciacion (a,b):
+def porentaje (a,b):
     '''porcentaje de un valor '''
     return  a%b
+
+def quetzal_a_dolar (a):
+    '''convierte a dolares'''
+    return a * 7.84
 
 def run ():
     pass
 
 if __name__ == '_main_':
-    run ()
-    
+    run
