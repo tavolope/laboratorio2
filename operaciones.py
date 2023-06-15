@@ -11,6 +11,3 @@ def multiplicacion (a,b):
     '''multiplica 2 valores '''
     return  a*b
 
-def division (a,b):
-    '''divide 2 valores '''
-    return  a/b
